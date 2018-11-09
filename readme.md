@@ -1,4 +1,6 @@
-제출 기한 11월 10일 오저 8시 30분
+https://github.com/mjgim/ajou-competition
+
+**제출 기한 11월 10일 오저 8시 30분**
 
 # 파일 보내는 곳
 - mjgim.nims.re.kr
