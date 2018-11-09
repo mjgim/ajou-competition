@@ -10,5 +10,5 @@ https://github.com/mjgim/ajou-competition
 - 코드 파일
 - _result.csv
 
-# 조식시간: 8시 40분 ~ 9시 30분
+# 조식시간: 8시 40분 ~ 9시 20분
 # 각 조당 1명씩 코드 알고리즘 및 아이디어 발표: 10시
